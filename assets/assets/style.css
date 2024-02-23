@@ -1,0 +1,10 @@
+#activeButton{
+    background: green;
+    color: white;
+    text-effect: emboss;
+}
+#deactiveButton{
+   background: red;
+    color: white;
+    text-effect: engrave;
+}
